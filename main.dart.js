@@ -45205,7 +45205,7 @@ F.w1.prototype={
 O:function(a,b){return new S.on(new F.vk(null),"Flutter Netherlands",X.a_5(null,C.lW),null)}}
 F.vk.prototype={
 O:function(a,b){var s=null,r=T.YC(M.VJ(s,s,s,s,s,s,s,s)),q=t.fQ
-return new M.pn(new T.ub(C.a_,C.p3,C.lV,C.kM,s,C.na,s,H.d([r,new T.nK(1,C.om,new U.nZ(M.a5W(s,s,new L.n_("flutternl-logo.png",s,s)),s),s),T.YC(new T.xJ(C.M,C.p4,C.lV,C.kM,s,C.na,s,H.d([new F.jB(C.ui,"https://flutter-nl.slack.com",s),new F.jB(C.uj,"https://www.meetup.com/FlutterNL",s),new F.jB(C.uk,"https://twitter.com/flutternl",s),new F.jB(C.ul,"https://www.linkedin.com/company/flutter-nl/",s)],q),s))],q),s),C.j,s)}}
+return new M.pn(new T.ub(C.a_,C.p3,C.lV,C.kM,s,C.na,s,H.d([r,new T.nK(1,C.om,new U.nZ(M.a5W(s,s,new L.n_("images/flutternl.png",s,s)),s),s),T.YC(new T.xJ(C.M,C.p4,C.lV,C.kM,s,C.na,s,H.d([new F.jB(C.ui,"https://flutter-nl.slack.com",s),new F.jB(C.uj,"https://www.meetup.com/FlutterNL",s),new F.jB(C.uk,"https://twitter.com/flutternl",s),new F.jB(C.ul,"https://www.linkedin.com/company/flutter-nl/",s)],q),s))],q),s),C.j,s)}}
 F.jB.prototype={
 O:function(a,b){var s=C.p7.h(0,900)
 s.toString
