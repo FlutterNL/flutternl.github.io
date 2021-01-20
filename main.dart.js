@@ -45305,7 +45305,7 @@ F.w7.prototype={
 O:function(a,b){return new S.or(new F.vq(null),"Flutter Netherlands",X.a_f(null,C.lW),null)}}
 F.vq.prototype={
 O:function(a,b){var s=null,r=t.fQ
-return new M.pr(new T.uf(C.a0,C.p3,C.lV,C.kM,s,C.na,s,H.d([T.YK(M.VR(s,s,s,s,s,s,s,s)),new T.nN(2,C.om,new F.vd(s),s),T.YK(new T.xQ(C.M,C.p4,C.lV,C.kM,s,C.na,s,H.d([new F.jB(C.uk,"https://flutter-nl.slack.com",s),new F.jB(C.ul,"https://www.meetup.com/FlutterNL",s),new F.jB(C.um,"https://twitter.com/flutternl",s),new F.jB(C.un,"https://www.linkedin.com/company/flutter-nl/",s)],r),s))],r),s),s)}}
+return new M.pr(new T.uf(C.a0,C.p3,C.lV,C.kM,s,C.na,s,H.d([T.YK(M.VR(s,s,s,s,s,s,s,s)),new T.nN(2,C.om,new F.vd(s),s),T.YK(new T.xQ(C.M,C.p4,C.lV,C.kM,s,C.na,s,H.d([new F.jB(C.uk,"https://flutter-nl.slack.com/join/shared_invite/zt-fcbvctdg-k75O8dqPmmbhKeCy6YsO4g/",s),new F.jB(C.ul,"https://www.meetup.com/FlutterNL",s),new F.jB(C.um,"https://twitter.com/flutternl",s),new F.jB(C.un,"https://www.linkedin.com/company/flutter-nl/",s)],r),s))],r),s),s)}}
 F.vd.prototype={
 O:function(a,b){return T.yo(C.qP,H.d([U.Z_("images/flutternl_background.png"),new T.vj(0.74,new F.nS(null),null)],t.fQ),C.i7)}}
 F.nS.prototype={
