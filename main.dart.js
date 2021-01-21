@@ -45324,7 +45324,7 @@ o=q===r?0:o/(q-r)*n
 s.yu(new G.SN(r,q,!1,s.gGM(),n,o,C.qu))},
 O:function(a,b){return K.mR(this.d,new F.R7(this),U.Z_("images/flutternl_foreground.png"))}}
 F.R7.prototype={
-$2:function(a,b){return new T.k1(E.Zi(this.a.d.gbN()*2*3.141592653589793),C.b2,!0,b,null)},
+$2:function(a,b){return new T.k1(E.Zi(-this.a.d.gbN()*2*3.141592653589793),C.b2,!0,b,null)},
 $C:"$2",
 $R:2,
 $S:275}
