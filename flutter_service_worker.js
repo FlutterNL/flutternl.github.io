@@ -3,23 +3,23 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "icons/Icon-512.png": "dcd70f7c03f7a86d1fc57f640b0c71b5",
-"icons/Icon-192.png": "c55fa5fd1c97098ed8d4281da47ca599",
-"manifest.json": "336df6e999b33e23ef1d626e284cb1f4",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
-"assets/NOTICES": "6a7033c7767f4127f36d266463bf2159",
-"assets/AssetManifest.json": "915743a982da2b6d5fe90b48e94264a1",
+  "assets/NOTICES": "8fe0aff7f1e20b73acf2d293be01d44b",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/images/flutternl_foreground.png": "72d149056ebd3b78b8a50a6044e058f2",
 "assets/images/flutternl_background.png": "829650c439ea30b730d60b647e9b5f09",
-"index.html": "14220df4e3c5df15e64d6ffc97d237be",
-"/": "14220df4e3c5df15e64d6ffc97d237be",
+"assets/AssetManifest.json": "915743a982da2b6d5fe90b48e94264a1",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"index.html": "9c2e3d15c317ff4a4bc9281d2e5e6efc",
+"/": "9c2e3d15c317ff4a4bc9281d2e5e6efc",
+"main.dart.js": "c9c2486e16283a6d106624c2c3b03d07",
+"icons/Icon-512.png": "dcd70f7c03f7a86d1fc57f640b0c71b5",
+"icons/Icon-192.png": "c55fa5fd1c97098ed8d4281da47ca599",
+"manifest.json": "336df6e999b33e23ef1d626e284cb1f4",
 "version.json": "db602d2bccc127da8cc95df4856f52e5",
-"main.dart.js": "04107652d83700297ec40879aa955f28",
 "favicon.png": "13397605912655bce2aae8d69e971505"
 };
 
